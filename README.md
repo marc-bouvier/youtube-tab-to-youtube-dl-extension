@@ -1,6 +1,6 @@
 # youtube-tab-to-youtube-dl-extension
 
-[![Deno](https://github.com/marc-bouvier/youtube-tab-to-youtube-dl-extension/workflows/Deno/badge.svg)](https://github.com/marc-bouvier/youtube-tab-to-youtube-dl-extension/actions)
+[![Deno](https://github.com/marc-bouvier/youtube-tab-to-youtube-dl-extension/actions/workflows/deno.yml/badge.svg)](https://github.com/marc-bouvier/youtube-tab-to-youtube-dl-extension/actions/workflows/deno.yml)
 
 Chrome/Firefox extension to generate youtube-dl cli command from tab into clipboard.
 
