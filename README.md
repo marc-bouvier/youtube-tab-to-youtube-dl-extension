@@ -65,7 +65,7 @@ make test
 
 If you don't have the `make` command installed you can still assemble the extension manually the following way:
 
-- create a folder called `generated`
+- create a folder called `generated` 
 
 ### For chrome extension
 - create a folder called `generated/chrome`
