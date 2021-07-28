@@ -1,6 +1,6 @@
 {
     "name": "Youtube tab to youtube-dl command",
-    "version": "0.0.0.1",
+    "version": "0.0.0.2",
     "manifest_version": 2,
     "author": "Marc Bouvier",
     "description": "Generates youtube-dl command from youtube tab",
