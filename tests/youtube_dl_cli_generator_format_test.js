@@ -9,12 +9,12 @@ Deno.test("assert test framework is working", () => {
 });
 
 Deno.test("youtube-dl for video with url", () => {
-  assertEquals(youtubeDLCommandForVideo("test"), "youtube-dl test");
+  assertEquals(youtubeDLCommandForVideo("test"), "youtube-dl \"test\"");
 });
 
 Deno.test("youtube-dl for mp3 with url", () => {
   assertEquals(
     youtubeDLCommandForMp3("test"),
-    "youtube-dl --extract-audio --audio-format mp3 test"
+    "youtube-dl --extract-audio --audio-format mp3 \"test\""
   );
 });
